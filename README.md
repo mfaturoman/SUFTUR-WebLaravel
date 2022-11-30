@@ -2,7 +2,7 @@
     git clone https://github.com/mfaturoman/SUFTUR-WebLaravel.git
 
 # First step 
-   composer install or composer update
+    composer install or composer update
    
 # Second step
     copy env.example .env
