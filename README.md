@@ -5,7 +5,7 @@
    * composer install or composer update
    
 # Second step
-    * copy env from env.example
+    * copy env.example .env
     
 # thirth step
     * php artisan migrate:fresh 
